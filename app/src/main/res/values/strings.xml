@@ -4,4 +4,9 @@
     <string name="onboarding_description">description</string>
     <string name="onboarding_title">title\n</string>
     <string name="featured_movie_image_desc">image_desc\n</string>
+    <string name="movie_genres">genres</string>
+    <string name="movie_title">m-title</string>
+    <string name="movie_release_date">movie_release_date</string>
+    <string name="movie_overview">movie_overview</string>
+    <string name="watch_trailer">watch_trailer</string>
 </resources>

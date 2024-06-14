@@ -9,7 +9,7 @@
         android:id="@+id/onboarding_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_onboarding"
+        android:src=""
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp" />
 
@@ -31,6 +31,6 @@
         android:layout_marginTop="8dp"
         android:text="@string/onboarding_description"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@color/black" />
+        android:textColor="@color/dark" />
 
 </RelativeLayout>
