@@ -3,4 +3,5 @@
     <string name="splash_logo_desc">splash</string>
     <string name="onboarding_description">description</string>
     <string name="onboarding_title">title\n</string>
+    <string name="featured_movie_image_desc">image_desc\n</string>
 </resources>
